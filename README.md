@@ -19,6 +19,6 @@ A recent project of mine is **WebGPT**, a web-based implementation of the text-d
 
 Check it out here ➜ [**WebGPT**](https://github.com/KingLabs-x/WebGPT)
 
-![](https://cdn.discordapp.com/attachments/970803532443836468/1068907870697029702/KLxOpenAI_.png) ![](https://cdn.discordapp.com/attachments/970803532443836468/1068912824249761833/image.png)
+![](https://cdn.discordapp.com/attachments/970803532443836468/1068907870697029702/KLxOpenAI_.png) ![](https://cdn.discordapp.com/attachments/970803532443836468/1069751981733855373/KLWebGPT1.png)
 
 Feel free to explore my projects!
