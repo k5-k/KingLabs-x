@@ -1,6 +1,6 @@
 # ~ KSK ~
 
-**Owner & Developer of [KingLabs](https://kinglabs.co.uk)**
+**Owner & Developer of [KingLabs](https://kinglabs.gg)**
 
 ![](https://cdn.discordapp.com/attachments/970803532443836468/1069089845953167443/kl-banner-discord-embed-resize.png)
 
