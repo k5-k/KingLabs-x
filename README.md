@@ -1,7 +1,7 @@
 # ~ KSK ~
 
-<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingLabs-x&show_icons=true&locale=en&layout=compact&theme=radical" alt="~ KSK ~ most used language" />
-<img width="350em" align="center" alt="Mezbatheking's Github stats" src="https://github-readme-stats.vercel.app/api?username=KingLabs-x&show_icons=true&count_private=false&theme=radical" />
+<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingLabs-x&show_icons=true&locale=en&layout=compact&theme=radical" alt="~ KSK ~'s most used language" />
+<img width="350em" align="center" alt="~ KSK ~'s Github stats" src="https://github-readme-stats.vercel.app/api?username=KingLabs-x&show_icons=true&count_private=false&theme=radical" />
 
 **Owner & Developer of [kinglabs.gg](https://kinglabs.gg)**
 
@@ -12,6 +12,8 @@
 <a href="https://kinglabs.gg/wtfdoge" target="/">![WTF DOGE](https://cdn.discordapp.com/emojis/1044451834686885918.webp?size=96&quality=lossless)</a>  **WTF DOGE**
 <a href="https://kinglabs.gg/horoscope" target="/">![Horoscope](https://cdn.discordapp.com/emojis/1044452761120550962.webp?size=96&quality=lossless)</a>  **Horoscope** ✨
 <a href="https://kinglabs.gg/nova" target="/">![NOVA](https://cdn.discordapp.com/emojis/1055920284298911824.webp?size=96&quality=lossless)</a> **{ NOVA }**
+***
+
 ```javascript
 const KingLabs = {
   owner: "~ KSK ~",
