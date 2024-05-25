@@ -1,12 +1,12 @@
 ```javascript
 const projects = [
   {
-    name: 'kinglabs.gg',
+    name: 'kinglabs',
     description: 'A website offering Discord bots.',
     url: 'https://kinglabs.gg'
   },
   {
-    name: 'bitify.link',
+    name: 'bitify',
     description: 'A URL shortening service for easy sharing and tracking of links.',
     url: 'https://bitify.link'
   }
